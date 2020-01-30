@@ -1,0 +1,15 @@
+{
+  "sweetonions@aol.com": [
+    { "email": "sweetonions@aol.com", "type": "click", "created": "2020-01-30T02:58:17.595Z" },
+    { "email": "sweetonions@aol.com", "type": "signup", "created": "2020-01-30T02:59:47.785Z" },
+    { "email": "sweetonions@aol.com", "type": "checkout", "created": "2020-01-30T03:02:25.001Z" }
+  ],
+  "lisa111@gmail.com": [
+    { "email": "lisa111@gmail.com", "type": "visit", "created": "2020-01-29T07:52:07.125Z" },
+    { "email": "lisa111@gmail.com", "type": "click", "created": "2020-01-29T07:53:00.082Z" }
+  ],
+  "kim0983@yahoo.com": [
+    { "email": "lisa111@gmail.com", "type": "conversion", "created": "2020-01-22T11:12:41.445Z" },
+    { "email": "lisa111@gmail.com", "type": "logout", "created": "2020-01-22T11:13:10.125Z" }
+  ]
+}
